@@ -7,7 +7,7 @@
 ## Table of Contents
 
 <details>
-<summary><b>![Course 1: Introduction to Front-End Development](./Course%201%20-%20Introduction%20to%20Front-End%20Development)</b></summary>
+<summary><b><a href="./Course%201%20-%20Introduction%20to%20Front-End%20Development">Course 1: Introduction to Front-End Development</a></b></summary>
 
 - ![Week 1](https://img.shields.io/badge/Week%201-Get%20started%20with%20web%20development-brightgreen)
 - ![Week 2](https://img.shields.io/badge/Week%202-Introduction%20to%20HTML%20and%20CSS-blue)
