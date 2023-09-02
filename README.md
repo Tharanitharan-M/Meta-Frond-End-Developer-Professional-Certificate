@@ -72,21 +72,19 @@
 <details>
 <summary><b>Course 8: Front-End Developer Capstone</b></summary>
 
-- ![Week 1](https://img.shields.io/badge/Week%201-TBA-brightgreen)
-- ![Week 2](https://img.shields.io/badge/Week%202-TBA-blue)
-- ![Week 3](https://img.shields.io/badge/Week%203-TBA-orange)
-- ![Week 4](https://img.shields.io/badge/Week%204-TBA-red)
-- ![Week 5](https://img.shields.io/badge/Week%205-TBA-lightgrey)
+- ![Week 1](https://img.shields.io/badge/Week%201-Starting%20the%20project-brightgreen)
+- ![Week 2](https://img.shields.io/badge/Week%202-Project%20foundations-blue)
+- ![Week 3](https://img.shields.io/badge/Week%203-Project%20functionality-orange)
+- ![Week 4](https://img.shields.io/badge/Week%204-Project%20Assessment-red)
 </details>
 
 <details>
 <summary><b>Course 9: Coding Interview Preparation</b></summary>
 
-- ![Week 1](https://img.shields.io/badge/Week%201-TBA-brightgreen)
-- ![Week 2](https://img.shields.io/badge/Week%202-TBA-blue)
-- ![Week 3](https://img.shields.io/badge/Week%203-TBA-orange)
-- ![Week 4](https://img.shields.io/badge/Week%204-TBA-red)
-- ![Week 5](https://img.shields.io/badge/Week%205-TBA-lightgrey)
+- ![Week 1](https://img.shields.io/badge/Week%201-Introduction%20to%20the%20coding%20interview-brightgreen)
+- ![Week 2](https://img.shields.io/badge/Week%202-Introduction%20to%20Data%20Structures-blue)
+- ![Week 3](https://img.shields.io/badge/Week%203-Introduction%20to%20Algorithms-orange)
+- ![Week 4](https://img.shields.io/badge/Week%204-Final%20Project-red)
 </details>
 
 ## Proof of Completion
