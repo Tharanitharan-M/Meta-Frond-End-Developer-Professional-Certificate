@@ -1,6 +1,6 @@
 # Meta Front-End Developer Professional Certificate
 
-![Meta Logo](meta_header_image.png)
+<img src="meta_header_image.png" alt="Meta Logo">
 
 👋 Welcome to my repository for the **Meta Front-End Developer Professional Certificate** program on Coursera! This repository is a treasure trove of my assignments, demos, and cheat sheets from all nine courses in this certification.
 
