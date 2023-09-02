@@ -91,4 +91,11 @@
 
 ![Certification](professional_certificate.jpeg)
 
+## Contact Me
+
+Feel free to reach out to me:
+
+- Email: [tharanimtharan@gmail.com](mailto:tharanimtharan@gmail.com)
+- LinkedIn: [Tharani Tharan](https://www.linkedin.com/in/tharani-tharan/)
+
 📚 Feel free to explore, learn, and connect with me if you have any questions or want to discuss web development and technology. Let's grow together! 🚀
